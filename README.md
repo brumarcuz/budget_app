@@ -41,4 +41,4 @@ O objetivo principal do exercício foi praticar:
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/brumarcuz/budget-app-python.git](https://github.com/brumarcuz/budget-app-python.git)
+   git clone https://github.com/brumarcuz/budget_app.git
